@@ -1,0 +1,21 @@
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temp
+*.tmp
+*.swp
+
+# Build / dependency caches (common)
+node_modules/
+dist/
+build/
+out/
+.cache/
